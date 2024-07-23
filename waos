@@ -818,7 +818,7 @@ TextButton_35.TextWrapped = true
 
 -- Scripts:
 
-local function IQWRJ_script() -- TextButton.LocalScript 
+local function UAPOY_script() -- TextButton.LocalScript 
 	local script = Instance.new('LocalScript', TextButton)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1092,8 +1092,8 @@ local function IQWRJ_script() -- TextButton.LocalScript
 	
 	end)
 end
-coroutine.wrap(IQWRJ_script)()
-local function ERORF_script() -- TextButton_2.LocalScript 
+coroutine.wrap(UAPOY_script)()
+local function QCQLN_script() -- TextButton_2.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1367,8 +1367,8 @@ local function ERORF_script() -- TextButton_2.LocalScript
 	
 	end)
 end
-coroutine.wrap(ERORF_script)()
-local function BPWMAO_script() -- TextButton_3.LocalScript 
+coroutine.wrap(QCQLN_script)()
+local function XEUZIH_script() -- TextButton_3.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_3)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1642,8 +1642,8 @@ local function BPWMAO_script() -- TextButton_3.LocalScript
 	
 	end)
 end
-coroutine.wrap(BPWMAO_script)()
-local function YAPMMF_script() -- TextButton_4.LocalScript 
+coroutine.wrap(XEUZIH_script)()
+local function DISO_script() -- TextButton_4.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_4)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1917,8 +1917,8 @@ local function YAPMMF_script() -- TextButton_4.LocalScript
 	
 	end)
 end
-coroutine.wrap(YAPMMF_script)()
-local function SZZWQ_script() -- TextButton_5.LocalScript 
+coroutine.wrap(DISO_script)()
+local function FCONYYA_script() -- TextButton_5.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_5)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2192,8 +2192,8 @@ local function SZZWQ_script() -- TextButton_5.LocalScript
 	
 	end)
 end
-coroutine.wrap(SZZWQ_script)()
-local function GJUX_script() -- TextButton_6.LocalScript 
+coroutine.wrap(FCONYYA_script)()
+local function REQJEX_script() -- TextButton_6.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_6)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2467,8 +2467,8 @@ local function GJUX_script() -- TextButton_6.LocalScript
 	
 	end)
 end
-coroutine.wrap(GJUX_script)()
-local function JLFLAW_script() -- TextButton_7.e 
+coroutine.wrap(REQJEX_script)()
+local function LWYNFRO_script() -- TextButton_7.e 
 	local script = Instance.new('LocalScript', TextButton_7)
 
 	local RunService = game:GetService("RunService")
@@ -2508,8 +2508,8 @@ local function JLFLAW_script() -- TextButton_7.e
 	button.MouseButton1Click:Connect(sendMessage)
 	
 end
-coroutine.wrap(JLFLAW_script)()
-local function DDWU_script() -- TextButton_8.LocalScript 
+coroutine.wrap(LWYNFRO_script)()
+local function QULVVNO_script() -- TextButton_8.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_8)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2788,8 +2788,8 @@ local function DDWU_script() -- TextButton_8.LocalScript
 	
 	end)
 end
-coroutine.wrap(DDWU_script)()
-local function MRIB_script() -- TextButton_9.LocalScript 
+coroutine.wrap(QULVVNO_script)()
+local function XVFQ_script() -- TextButton_9.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_9)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -3068,8 +3068,8 @@ local function MRIB_script() -- TextButton_9.LocalScript
 	
 	end)
 end
-coroutine.wrap(MRIB_script)()
-local function WEVJ_script() -- _1.LocalScript 
+coroutine.wrap(XVFQ_script)()
+local function RWNJNC_script() -- _1.LocalScript 
 	local script = Instance.new('LocalScript', _1)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -3348,8 +3348,8 @@ local function WEVJ_script() -- _1.LocalScript
 	
 	end)
 end
-coroutine.wrap(WEVJ_script)()
-local function MTZE_script() -- TextButton_10.LocalScript 
+coroutine.wrap(RWNJNC_script)()
+local function JMHV_script() -- TextButton_10.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_10)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -3628,8 +3628,8 @@ local function MTZE_script() -- TextButton_10.LocalScript
 	
 	end)
 end
-coroutine.wrap(MTZE_script)()
-local function OESWDFJ_script() -- TextButton_11.LocalScript 
+coroutine.wrap(JMHV_script)()
+local function YSIQFZJ_script() -- TextButton_11.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_11)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -3908,8 +3908,8 @@ local function OESWDFJ_script() -- TextButton_11.LocalScript
 	
 	end)
 end
-coroutine.wrap(OESWDFJ_script)()
-local function FJAD_script() -- TextButton_12.LocalScript 
+coroutine.wrap(YSIQFZJ_script)()
+local function ZMIDLHP_script() -- TextButton_12.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_12)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -4188,8 +4188,8 @@ local function FJAD_script() -- TextButton_12.LocalScript
 	
 	end)
 end
-coroutine.wrap(FJAD_script)()
-local function YKCVB_script() -- TextButton_13.e 
+coroutine.wrap(ZMIDLHP_script)()
+local function FVMFCJJ_script() -- TextButton_13.e 
 	local script = Instance.new('LocalScript', TextButton_13)
 
 	local RunService = game:GetService("RunService")
@@ -4229,8 +4229,8 @@ local function YKCVB_script() -- TextButton_13.e
 	button.MouseButton1Click:Connect(sendMessage)
 	
 end
-coroutine.wrap(YKCVB_script)()
-local function RNNKYI_script() -- TextButton_14.e 
+coroutine.wrap(FVMFCJJ_script)()
+local function ACDPGS_script() -- TextButton_14.e 
 	local script = Instance.new('LocalScript', TextButton_14)
 
 	local RunService = game:GetService("RunService")
@@ -4270,8 +4270,8 @@ local function RNNKYI_script() -- TextButton_14.e
 	button.MouseButton1Click:Connect(sendMessage)
 	
 end
-coroutine.wrap(RNNKYI_script)()
-local function PTNEAD_script() -- TextButton_15.e 
+coroutine.wrap(ACDPGS_script)()
+local function XOBGO_script() -- TextButton_15.e 
 	local script = Instance.new('LocalScript', TextButton_15)
 
 	local RunService = game:GetService("RunService")
@@ -4311,8 +4311,8 @@ local function PTNEAD_script() -- TextButton_15.e
 	button.MouseButton1Click:Connect(sendMessage)
 	
 end
-coroutine.wrap(PTNEAD_script)()
-local function TRFVSEC_script() -- TextButton_16.e 
+coroutine.wrap(XOBGO_script)()
+local function UXMPFRA_script() -- TextButton_16.e 
 	local script = Instance.new('LocalScript', TextButton_16)
 
 	local RunService = game:GetService("RunService")
@@ -4351,8 +4351,8 @@ local function TRFVSEC_script() -- TextButton_16.e
 	button.MouseButton1Click:Connect(sendMessage)
 	
 end
-coroutine.wrap(TRFVSEC_script)()
-local function TTWG_script() -- TextButton_17.e 
+coroutine.wrap(UXMPFRA_script)()
+local function EODTFTV_script() -- TextButton_17.e 
 	local script = Instance.new('LocalScript', TextButton_17)
 
 	local RunService = game:GetService("RunService")
@@ -4392,8 +4392,8 @@ local function TTWG_script() -- TextButton_17.e
 	button.MouseButton1Click:Connect(sendMessage)
 	
 end
-coroutine.wrap(TTWG_script)()
-local function CWIF_script() -- TextButton_18.e 
+coroutine.wrap(EODTFTV_script)()
+local function PYRNIH_script() -- TextButton_18.e 
 	local script = Instance.new('LocalScript', TextButton_18)
 
 	local RunService = game:GetService("RunService")
@@ -4433,8 +4433,8 @@ local function CWIF_script() -- TextButton_18.e
 	button.MouseButton1Click:Connect(sendMessage)
 	
 end
-coroutine.wrap(CWIF_script)()
-local function XIPL_script() -- TextButton_19.e 
+coroutine.wrap(PYRNIH_script)()
+local function GAWBK_script() -- TextButton_19.e 
 	local script = Instance.new('LocalScript', TextButton_19)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -4664,8 +4664,8 @@ local function XIPL_script() -- TextButton_19.e
 		FireParts()
 	end)
 end
-coroutine.wrap(XIPL_script)()
-local function UGZYZW_script() -- TextButton_20.e 
+coroutine.wrap(GAWBK_script)()
+local function EILBN_script() -- TextButton_20.e 
 	local script = Instance.new('LocalScript', TextButton_20)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -4920,8 +4920,8 @@ local function UGZYZW_script() -- TextButton_20.e
 		SpawnBasePlate()
 	end)
 end
-coroutine.wrap(UGZYZW_script)()
-local function NMUGGP_script() -- TextButton_21.e 
+coroutine.wrap(EILBN_script)()
+local function ZHEN_script() -- TextButton_21.e 
 	local script = Instance.new('LocalScript', TextButton_21)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -5140,8 +5140,8 @@ local function NMUGGP_script() -- TextButton_21.e
 		KillAll()
 	end)
 end
-coroutine.wrap(NMUGGP_script)()
-local function WPTG_script() -- TextButton_22.e 
+coroutine.wrap(ZHEN_script)()
+local function WEIDI_script() -- TextButton_22.e 
 	local script = Instance.new('LocalScript', TextButton_22)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -5371,8 +5371,8 @@ local function WPTG_script() -- TextButton_22.e
 		FireParts()
 	end)
 end
-coroutine.wrap(WPTG_script)()
-local function AVXR_script() -- TextButton_23.e 
+coroutine.wrap(WEIDI_script)()
+local function HGYZK_script() -- TextButton_23.e 
 	local script = Instance.new('LocalScript', TextButton_23)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -5592,8 +5592,8 @@ local function AVXR_script() -- TextButton_23.e
 	end)
 	
 end
-coroutine.wrap(AVXR_script)()
-local function BVGLS_script() -- TextButton_24.e 
+coroutine.wrap(HGYZK_script)()
+local function QLHMPU_script() -- TextButton_24.e 
 	local script = Instance.new('LocalScript', TextButton_24)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -5771,8 +5771,8 @@ local function BVGLS_script() -- TextButton_24.e
 	end)
 	
 end
-coroutine.wrap(BVGLS_script)()
-local function LTQAHR_script() -- TextButton_25.e 
+coroutine.wrap(QLHMPU_script)()
+local function YLGDX_script() -- TextButton_25.e 
 	local script = Instance.new('LocalScript', TextButton_25)
 
 	script.Parent.MouseButton1Click:Connect(function()--rgrg
@@ -6014,8 +6014,8 @@ local function LTQAHR_script() -- TextButton_25.e
 	end)
 	
 end
-coroutine.wrap(LTQAHR_script)()
-local function ASVR_script() -- TextButton_26.e 
+coroutine.wrap(YLGDX_script)()
+local function GJRSA_script() -- TextButton_26.e 
 	local script = Instance.new('LocalScript', TextButton_26)
 
 	local RunService = game:GetService("RunService")
@@ -6054,8 +6054,8 @@ local function ASVR_script() -- TextButton_26.e
 	button.MouseButton1Click:Connect(sendMessage)
 	
 end
-coroutine.wrap(ASVR_script)()
-local function KKZF_script() -- TextButton_27.e 
+coroutine.wrap(GJRSA_script)()
+local function SUFVDW_script() -- TextButton_27.e 
 	local script = Instance.new('LocalScript', TextButton_27)
 
 	local RunService = game:GetService("RunService")
@@ -6094,8 +6094,8 @@ local function KKZF_script() -- TextButton_27.e
 	button.MouseButton1Click:Connect(sendMessage)
 	
 end
-coroutine.wrap(KKZF_script)()
-local function VREELJZ_script() -- TextButton_28.e 
+coroutine.wrap(SUFVDW_script)()
+local function DNUROFV_script() -- TextButton_28.e 
 	local script = Instance.new('LocalScript', TextButton_28)
 
 	local RunService = game:GetService("RunService")
@@ -6134,8 +6134,8 @@ local function VREELJZ_script() -- TextButton_28.e
 	button.MouseButton1Click:Connect(sendMessage)
 	
 end
-coroutine.wrap(VREELJZ_script)()
-local function DUHJFVF_script() -- TextButton_29.e 
+coroutine.wrap(DNUROFV_script)()
+local function OIYE_script() -- TextButton_29.e 
 	local script = Instance.new('LocalScript', TextButton_29)
 
 	local RunService = game:GetService("RunService")
@@ -6175,8 +6175,8 @@ local function DUHJFVF_script() -- TextButton_29.e
 	button.MouseButton1Click:Connect(sendMessage)
 	
 end
-coroutine.wrap(DUHJFVF_script)()
-local function RHQDTC_script() -- TextButton_30.e 
+coroutine.wrap(OIYE_script)()
+local function UHTIMX_script() -- TextButton_30.e 
 	local script = Instance.new('LocalScript', TextButton_30)
 
 	local RunService = game:GetService("RunService")
@@ -6215,8 +6215,8 @@ local function RHQDTC_script() -- TextButton_30.e
 	button.MouseButton1Click:Connect(sendMessage)
 	
 end
-coroutine.wrap(RHQDTC_script)()
-local function OKNOZA_script() -- TextButton_31.e 
+coroutine.wrap(UHTIMX_script)()
+local function HDFTA_script() -- TextButton_31.e 
 	local script = Instance.new('LocalScript', TextButton_31)
 
 	local RunService = game:GetService("RunService")
@@ -6229,7 +6229,7 @@ local function OKNOZA_script() -- TextButton_31.e
 	local button = script.Parent
 	
 	local function sendMessage()
-		local message = ";name all F3xploit"
+		local message = ";sword me"
 	
 		if TextChatService.ChatVersion == Enum.ChatVersion.LegacyChatService then
 			local chatEvents = game:GetService("ReplicatedStorage"):FindFirstChild("DefaultChatSystemChatEvents")
@@ -6255,8 +6255,8 @@ local function OKNOZA_script() -- TextButton_31.e
 	button.MouseButton1Click:Connect(sendMessage)
 	
 end
-coroutine.wrap(OKNOZA_script)()
-local function MVGINA_script() -- TextButton_32.e 
+coroutine.wrap(HDFTA_script)()
+local function VKNQQ_script() -- TextButton_32.e 
 	local script = Instance.new('LocalScript', TextButton_32)
 
 	local RunService = game:GetService("RunService")
@@ -6269,7 +6269,7 @@ local function MVGINA_script() -- TextButton_32.e
 	local button = script.Parent
 	
 	local function sendMessage()
-		local message = ";name all kid lol"
+		local message = ";fling others"
 	
 		if TextChatService.ChatVersion == Enum.ChatVersion.LegacyChatService then
 			local chatEvents = game:GetService("ReplicatedStorage"):FindFirstChild("DefaultChatSystemChatEvents")
@@ -6295,8 +6295,8 @@ local function MVGINA_script() -- TextButton_32.e
 	button.MouseButton1Click:Connect(sendMessage)
 	
 end
-coroutine.wrap(MVGINA_script)()
-local function ALWP_script() -- Top.Drag 
+coroutine.wrap(VKNQQ_script)()
+local function KSFV_script() -- Top.Drag 
 	local script = Instance.new('LocalScript', Top)
 
 	local UserInputService = game:GetService("UserInputService")
@@ -6339,8 +6339,8 @@ local function ALWP_script() -- Top.Drag
 		end
 	end)
 end
-coroutine.wrap(ALWP_script)()
-local function MEROYWY_script() -- TextButton_33.LocalScript 
+coroutine.wrap(KSFV_script)()
+local function TLYUC_script() -- TextButton_33.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_33)
 
 	-- Obtén referencias al Frame y al Button
@@ -6356,8 +6356,8 @@ local function MEROYWY_script() -- TextButton_33.LocalScript
 	button.MouseButton1Click:Connect(makeFrameInvisible)
 	
 end
-coroutine.wrap(MEROYWY_script)()
-local function XPKQ_script() -- TextButton_34.LocalScript 
+coroutine.wrap(TLYUC_script)()
+local function UZCDVEI_script() -- TextButton_34.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_34)
 
 	-- Variables
@@ -6373,8 +6373,8 @@ local function XPKQ_script() -- TextButton_34.LocalScript
 	button.MouseButton1Click:Connect(toggleFrameVisibility)
 	
 end
-coroutine.wrap(XPKQ_script)()
-local function BTMFD_script() -- ImageButton.Drag 
+coroutine.wrap(UZCDVEI_script)()
+local function HHMCEWE_script() -- ImageButton.Drag 
 	local script = Instance.new('LocalScript', ImageButton)
 
 	local UserInputService = game:GetService("UserInputService")
@@ -6417,8 +6417,8 @@ local function BTMFD_script() -- ImageButton.Drag
 		end
 	end)
 end
-coroutine.wrap(BTMFD_script)()
-local function YZDBV_script() -- ImageButton.LocalScript 
+coroutine.wrap(HHMCEWE_script)()
+local function QVPOTIZ_script() -- ImageButton.LocalScript 
 	local script = Instance.new('LocalScript', ImageButton)
 
 	-- Obtén referencias al Frame y al Button
@@ -6434,8 +6434,8 @@ local function YZDBV_script() -- ImageButton.LocalScript
 	button.MouseButton1Click:Connect(makeFrameVisible)
 	
 end
-coroutine.wrap(YZDBV_script)()
-local function WWWJZ_script() -- TextButton_35.e 
+coroutine.wrap(QVPOTIZ_script)()
+local function TWACBN_script() -- TextButton_35.e 
 	local script = Instance.new('LocalScript', TextButton_35)
 
 	local RunService = game:GetService("RunService")
@@ -6474,4 +6474,4 @@ local function WWWJZ_script() -- TextButton_35.e
 	button.MouseButton1Click:Connect(sendMessage)
 	
 end
-coroutine.wrap(WWWJZ_script)()
+coroutine.wrap(TWACBN_script)()
